@@ -66,12 +66,14 @@ feed:
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
-gem:
+plugins:
  - jemoji
  - jekyll-sitemap
  - jekyll-feed
  - jekyll-paginate
-
+ 
+# Gems
+gems: [jekyll-paginate]
 # ---------------------------------------------------------------
 # Site Information Settings
 # ---------------------------------------------------------------
