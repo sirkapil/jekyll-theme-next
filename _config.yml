@@ -66,8 +66,7 @@ feed:
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
-plugins:
-# jemoji conficts with toc in some no-ascii post
+plugins
  - jemoji
  - jekyll-sitemap
  - jekyll-feed
