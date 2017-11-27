@@ -1,3 +1,4 @@
+---
 title: Contact Form
 description: A Beginner's Approach
 author: Kapil Chaudhary
@@ -8,6 +9,7 @@ tags:
  - netlify
  - contact form
  - tufte
+---
 
 ## Introduction
 
