@@ -1,6 +1,6 @@
 ---
 title: Contact Form
-description: A beginner's guide to use contact form in jekyll static site using netlify.
+description: A beginner's guide to build a contact form for static site (Jekyll) using netlify forms and tufte css !
 categories:
  - code
 tags:
@@ -12,7 +12,7 @@ tags:
 
 ## Introduction
 
-<p>Today , i'm going to tell you how i created this lovely <a href="https://contact.sirkapil.me" target="_blank">contact form</a>.
+<p>Today , i'm going to tell you about this lovely <a href="https://contact.sirkapil.me" target="_blank">contact form</a>. 
 
 <!-- more -->
 
