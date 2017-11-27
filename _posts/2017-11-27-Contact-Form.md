@@ -12,6 +12,9 @@ tags:
 ## Introduction
 
 <p>Today , i'm going to tell you how i created this lovely <a href="https://contact.sirkapil.me" target="_blank">contact form</a>.
+
+<!-- more -->
+
 You can easily check it's source code through any online source code checker or by pressing CTRL+U (pc users). However, i mostly use w3 to inspect the source code.<br />
 Online source code is here: </p><ol>
 <li> <a href="https://validator.w3.org/nu/?showsource=yes&showimagereport=yes&doc=https%3A%2F%2Fcontact.sirkapil.me%2F" target="_blank">w3.org</a></li>
