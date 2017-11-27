@@ -95,7 +95,7 @@ This is link to Github Repository , you can clone it or fork it ! Any suitable c
 
 ### <a name="mrhyde"> MrHyde </a>
 
-<p>It is android app that I use to make suitable changes (commit) to my github repository. It lets me clone my github repository in internal storage of my phone and i can easily play with codes even without internet. I can push back changes to my github repository whenever connected to internet. and those changes are live instantly (few sec.)</p>
+<p>It is android app that i use to make suitable changes (commit) to my github repository. It lets me clone my github repository in internal storage of my phone and i can easily play with codes even without internet. I can push back changes to my github repository whenever connected to internet. and those changes are live instantly (few sec.)</p>
 
 ### <a name="erlen"> Erlen's Codepen </a>
 
@@ -116,7 +116,7 @@ I have made most of changes in  <i><b>contact.js , contact.css</b> </i> and a fe
 
 ### <a name="customcss"> Custom CSS</a>
 
-<p>I've modified a part of <b><i>tufte css</i></b> to change its background color to light red . this section is using <b><i>custom css</i></b> via <code>section</code> tag and <code>class</code> as defined in starting of <b><i>custom css</i></b>.</p>
+<p>I've modified a part of <b><i>tufte css</i></b> to change its background color to light red . you can use <b><i>custom css</i></b> via <code>section</code> tag and <code>class</code> as defined in starting of <b><i>custom css</i></b>.</p>
 
 {% highlight html %}
 <section class="bg-red">
