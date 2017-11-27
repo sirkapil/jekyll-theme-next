@@ -1,7 +1,6 @@
 ---
 title: Contact Form
-description: A Beginner's Approach
-author: Kapil Chaudhary
+description: A beginner's guide to use contact form in jekyll static site using netlify.
 categories:
  - code
 tags:
