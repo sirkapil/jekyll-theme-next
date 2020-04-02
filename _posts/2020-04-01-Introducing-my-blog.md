@@ -18,16 +18,20 @@ Well, I planned that my first blog should be all about my passion, Maths. So, He
 
 
 * Online Cataloguing
-   (The actual reason to have this blog was that i needed a proper online catalogue of my notes and answers that i post on Chegg Inc.)
+   
+    (The actual reason to have this blog was that i needed a proper online catalogue of my notes and answers that i post on Chegg Inc.)
 
 * Sharing is Caring 
-  (Everything will be free here, Unlike Chegg where you need a subscription to see this catalogue)
+  
+    (Everything will be free here, Unlike Chegg where you need a subscription to see this catalogue)
 
 * Passion for this subject
+    
     (Infact, it should be the main reason)
 
 * I'm bored at home. 😂
-  (koi lockdown hatwao yrr. Translation: Anyone please uplift this lockdown.)
+
+    (koi lockdown hatwao yrr. Translation: Anyone please uplift this lockdown.)
 
 ## Will you post consistently?
 
