@@ -45,6 +45,6 @@ Well guys, This is my first blog. I have just started so i would like to have a 
 
 * Please let me know, if you liked anything about this blog. Send me a heart ❤ for the thing that you loved most.
 
-* Do you often write and think of owning a blog? 
+* Do you often write and plan to have a personal blog? 
 
 * Any suggestions and comments are welcome!
