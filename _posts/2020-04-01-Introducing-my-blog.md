@@ -3,8 +3,9 @@ layout: post
 title: Introducing this blog
 description: 
 ---
+I hope you guys will be fine and staying back at home in this lockdown period.
 
-I'm feeling really excited to introduce you guys to my first ever blog. Actually, blogging has been one of my favourite spare time hobby. So, it was worth of giving it a try. To have an online space where i can write about the things that i like; for the things, i feel much comfortable.
+Guys, I'm feeling really excited to introduce my first ever blog. Actually, blogging has been one of my favourite spare time hobby. So, it was worth of giving it a try. To have an online space where i can write about the things that i like; for the things, i feel much comfortable.
 
 Let me first clear up a few things!
 
@@ -17,24 +18,22 @@ Well, I planned that my first blog should be all about my passion, Maths. So, He
 
 
 * Online Cataloguing
- 
    (The actual reason to have this blog was that i needed a proper online catalogue of my notes and answers that i post on Chegg Inc.)
 
 * Sharing is Caring 
-
   (Everything will be free here, Unlike Chegg where you need a subscription to see this catalogue)
 
 * Passion for this subject
+    (Infact, it should be the main reason)
 
- (Infact, it should be the main reason)
-
-* I'm bored at home 😂 
-
-  (koi lockdown hatwao yrr, Translation: Anyone please uplift this lockdown.)
+* I'm bored at home. 😂
+  (koi lockdown hatwao yrr. Translation: Anyone please uplift this lockdown.)
 
 ## Will you post consistently?
 
 I'm planning to post consistently on this blog. I will try to post as much as i can. But, you can expect daily around four or five post as of now. (Mostly those questions which i feel are worth sharing for, Not all the stuff that i do for Chegg Inc.)
+
+## Final Words:
 
 Well guys, This is my first blog. I have just started so i would like to have a few favours from you.
 
