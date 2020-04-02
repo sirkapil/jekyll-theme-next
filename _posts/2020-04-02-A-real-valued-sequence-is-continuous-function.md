@@ -11,6 +11,6 @@ tags:
 
 ## Proof:
 
-![page-1](.../chegg/2020-04-02/1.jpg) 
+![page-1]({{ site.url }}/chegg/2020-04-02/1.jpg) 
 
-![page-1](.../chegg/2020-04-02/2.jpg) 
+![page-2]({{ site.url }}/chegg/2020-04-02/2.jpg) 
