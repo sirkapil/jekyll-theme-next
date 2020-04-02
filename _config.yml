@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: sirkapil
+title: KAPIL
 subtitle:
 description:
 author: Kapil Chaudhary
@@ -15,7 +15,7 @@ date_format: '%d-%m-%Y'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 
-url:  "https://pc.sirkapil.me"
+url:  "https://maths.heykapil.in"
 baseurl:  ""
 
 permalink: pretty
@@ -277,7 +277,7 @@ sidebar:
   offset_float: 0
 
   # Back to top in sidebar
-  b2t: false
+  b2t: true
 
   # Scroll percent label in b2t button
   scrollpercent: false
