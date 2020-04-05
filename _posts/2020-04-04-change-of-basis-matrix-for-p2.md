@@ -16,9 +16,9 @@ tags:
 
 ## Solution:
 
-![page-1]({{ site.url }}/chegg/2020-04-03/1.1.jpg) 
+![page-1]({{ site.url }}/chegg/2020-04-04/1.1.jpg) 
 
-![page-2]({{ site.url }}/chegg/2020-04-03/1.2.jpg) 
+![page-2]({{ site.url }}/chegg/2020-04-04/1.2.jpg) 
 
 
 
