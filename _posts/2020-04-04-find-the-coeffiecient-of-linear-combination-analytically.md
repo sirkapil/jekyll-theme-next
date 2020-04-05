@@ -2,8 +2,7 @@
 layout: post
 title: find the coeffiecients of linear combination analytically.
 
-description: 
-  let ${ v_1 , v_2 , v_3}$ be an orthogonal set in $R^3$ , let $w$ be any given vector in $R^3$ which is wrriten as linear combination of vectors ${ v_1 , v_2 , v_3}$. find coeffiecientsanalytically (without matrix method)
+description: let ${ v_1 , v_2 , v_3 }$ be an orthogonal set in $R^3$ , let $w$ be any given vector in $R^3$ which is wrriten as linear combination of given orthogonal vectors. find the scalers of linear combinationanalytically (without matrix method)
 categories:
  - linear algebra
 tags:
