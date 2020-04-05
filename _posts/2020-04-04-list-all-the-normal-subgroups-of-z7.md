@@ -1,7 +1,7 @@
 ---
 layout: post
-title: list all the normal subgroups of $Z_7$
-description: list all the normal subgroups of cyclic group $Z_7$
+title: List all the normal subgroups of $Z_7$
+description: find all the normal subgroups of cyclic group $Z_7$
 categories:
  - abstract algebra
 tags:
