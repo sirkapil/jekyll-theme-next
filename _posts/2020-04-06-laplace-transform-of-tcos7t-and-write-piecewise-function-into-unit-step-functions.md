@@ -1,6 +1,6 @@
 ---
 layout: post
-title: laplace transform of $tcos(7t)$ and write piecewise function into unit step functions.
+title: Laplace transform of $t cos(7t)$ and write piecewise function into unit step functions.
 description: Find the laplace transform of function $t cos(7t)$ using given theorem. Find the laplace transform of a piece-wise function by writing it in form of unit step functions.
 question-number: 1
 categories:

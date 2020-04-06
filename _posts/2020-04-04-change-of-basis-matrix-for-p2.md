@@ -1,6 +1,6 @@
 ---
 layout: post
-title: find the change of basis matrix in $P_2(x)$
+title: Find the change of basis matrix in $P_2(x)$
 description: change of basis matrix from basis $B_1$ to basis $B_2$ and transition matrix or change of basis from $B_2$ to $B_1$
 categories:
  - linear algebra

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Graph the function $-log_3(x+2) +1$
+title: Graph the function using transformations, $- log_3 (x+2) + 1$
 description: and find parent function, asymptotes, domain, range, horizontal shift, reflection, vertical shift. Find the t chart of each of transformation and function.
 question-number: 2
 categories:
