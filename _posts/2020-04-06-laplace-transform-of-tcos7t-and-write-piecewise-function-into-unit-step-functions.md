@@ -18,7 +18,7 @@ tags:
 
 ![page-1]({{ site.url }}/chegg/2020-04-06/1.1.jpg) 
 
-![page-2]({{ site.url }}/chegg/{{ post.date }}/1.2.jpg) 
+![page-2]({{ site.url }}/chegg/{{ page.date | date: "%Y-%m-%d" }}/1.2.jpg) 
 
 
 
